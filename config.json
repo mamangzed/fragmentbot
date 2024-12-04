@@ -1,0 +1,14 @@
+{
+    "license": "",
+    "chromePath": "",
+    "pathExtension": "",
+    "tele_botToken": "",
+    "db_host": "localhost",
+    "db_username": "root",
+    "db_password": "",
+    "db_database": "bot",
+    "TOKOPAY_MERCHANT": "",
+    "TOKOPAY_SECRET": "",
+    "walletaddres": ""
+
+}
